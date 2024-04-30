@@ -1,7 +1,5 @@
-# ASE-2023 Replication Package for **CUREFUZZ: A Curiosity-Driven Fuzzer for Markov Decision Process**
+# ICSE-2024 Replication Package for **CUREFUZZ: A Curiosity-Driven Fuzzer for Markov Decision Process**
 
-
-*CureFuzz* is evaluated on five SOTA deep learning-based Sequential Decision Makers .
 
 For each Sequential Decision Maker, the details for each environment are included in [ACAS_Xu](./ACAS_Xu/), [IL_CARLA](./IL_CARLA/), [MARL_CoopNavi](./MARL_CoopNavi/), [RL_BipedalWalker](./RL_BipedalWalker/), [RL_CARLA](./RL_CARLA/).
 
